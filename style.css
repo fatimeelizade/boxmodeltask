@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.borders{
+    border: 2px solid black;
+    margin: 20px;
+    font-size: 20px;
+}
+.box{
+    width: 800px;
+    padding: 10px;
+}
+.paragraph{
+    padding: 10px;
+}
+.bordercolor{
+    border-color: rgb(242, 72, 222);
+}
+.child{
+    border-color: blue;
+    width: 100px;
+    padding: 10px;
+}
+.child2{
+    border-color: blue;
+}
+.paddings{
+    padding: 10px;  
+}
